@@ -59,7 +59,9 @@
     <Compile Include="DbContextExtensions.cs" />
     <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="IQueryableExtensions.cs" />
+    <Compile Include="MappedDataReader.cs" />
     <Compile Include="MultipleResult.cs" />
+    <Compile Include="MultipleResultMapper.cs" />
     <Compile Include="MultipleResultQuery.cs" />
     <Compile Include="ObjectContextExtensions.cs" />
     <Compile Include="ParameterExtractorExpressionVisitor.cs" />
